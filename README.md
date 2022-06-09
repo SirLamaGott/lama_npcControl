@@ -1,1 +1,1 @@
-# lama_npcControl
+# no support anymore
